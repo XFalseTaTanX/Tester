@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Lobster', cursive;
+    color:gold
+}
+li{
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+body{
+    background-image: url(https://cutewallpaper.org/37x/czqs74t1i/558523935.jpg);
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    
+}
